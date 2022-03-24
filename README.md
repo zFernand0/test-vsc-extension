@@ -1,3 +1,3 @@
-Minimal extension to recreate `Expect Error: Required parameter 'name' must be defined` imperative error.
+# Test VSCode Extension
 
-`npm i` to install node modules.# test-vsc-extension
+Minimal VSCode Extension to help diagnose problems
