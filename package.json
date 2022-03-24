@@ -3,6 +3,7 @@
 	"displayName": "Test VSCode Extension",
 	"description": "Minimal VSCode Extension to help diagnose problems",
 	"version": "0.0.1",
+	"publisher": "zFernand0",
 	"license": "MIT",
 	"engines": {
 		"vscode": "^1.65.0"
