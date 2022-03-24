@@ -4,6 +4,7 @@ module.exports = {
     "license-header",
     "unused-imports",
   ],
+  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaVersion": 12,
     "sourceType": "module"
