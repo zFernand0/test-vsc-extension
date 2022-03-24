@@ -8,6 +8,15 @@
 	"engines": {
 		"vscode": "^1.65.0"
 	},
+	"contributes": {
+		"commands": [
+      {
+        "command": "zFernand0.testCommand",
+        "title": "Test Command",
+        "category": "zFernando"
+      }
+		]
+	},
 	"categories": [
 		"Other"
 	],
@@ -40,6 +49,6 @@
 	},
 	"dependencies": {
 		"@zowe/core-for-zowe-sdk": "^7.0.0-next.202203231654",
-		"@zowe/imperative": "^5.0.0-next.202203231534"
+		"@zowe/imperative": "file:../../zowe/imperative"
 	}
 }
