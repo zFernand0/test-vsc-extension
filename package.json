@@ -36,5 +36,9 @@
 		"glob": "^7.2.0",
 		"mocha": "^9.2.1",
 		"typescript": "^4.5.5"
+	},
+	"dependencies": {
+		"@zowe/imperative": "^5.0.0-next.202203231534",
+		"@zowe/zowe-explorer-api": "^2.0.0-next.202202281000"
 	}
 }
