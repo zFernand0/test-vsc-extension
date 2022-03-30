@@ -12,8 +12,8 @@
         "--extensionDevelopmentPath=${workspaceFolder}"
       ],
       "env": {
-          // "ZOWE_CLI_HOME": "/root/gh/zfernand0/test-profile-info-api/.zowe"
-          "ZOWE_CLI_HOME": "C:\\Users\\fr661554\\Desktop\\GitHub\\zowe\\imperative\\.idea\\.zowe"
+          "ZOWE_CLI_HOME": "/root/gh/zfernand0/test-profile-info-api/.zowe"
+          // "ZOWE_CLI_HOME": "C:\\Users\\fr661554\\Desktop\\GitHub\\zowe\\imperative\\.idea\\.zowe"
       },
       "outFiles": [
         "${workspaceFolder}/out/**/*.js"
